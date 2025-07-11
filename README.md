@@ -96,3 +96,17 @@ Before you can start with plotly in Jupyter Lab you have to install node.js (if 
     ```
  
 
+## About Project :
+Analyse the King County Housing Data: This dataset contains information about home sales in King County (USA).
+
+### 1. For below 4 hypothesis based King County Housing Data, it cleans the data, plots it and finds their correlation.
+1.  Higher the area, higher the price.
+2.  Newer houses (based on year built or renovated) are priced higher than older ones.
+3.  Houses with better condition or grade have higher prices.
+4.  Houses in certain zip codes (zip code) are more expensive than others.
+
+### 2. For client Jacob Phillips, it finds the best buying location, time and best recommandation.
+1.  Best possible location for Jacob.
+2.  Price distribution in different areas.
+3.  Best month to Buy
+4.  Top 3 suggestions.
